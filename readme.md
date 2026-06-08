@@ -214,4 +214,4 @@ If you come from a country where a phone is your only computer — this is your 
 
 ---
 
-*Built by [Anorthic Studio](https://github.com/anorthicstudio)*
+*Built by [Anorthic Studio](https://anorthicstudio.com)*
